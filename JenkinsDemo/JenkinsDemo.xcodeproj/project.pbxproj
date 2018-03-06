@@ -434,9 +434,9 @@
 				DEVELOPMENT_TEAM = 5R95B79QX2;
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.yxiong.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.yxiong.jenkins02;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "a2dcc50c-7f49-4401-a24c-e5b00d3f2317";
+				PROVISIONING_PROFILE = "ebc98fe3-523a-429e-9b6a-c0c4faaba668";
 				PROVISIONING_PROFILE_SPECIFIER = jenkinsDemo;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -450,7 +450,7 @@
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = JenkinsDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = cn.yxiong.JenkinsDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = cn.yxiong.jenkins02;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
