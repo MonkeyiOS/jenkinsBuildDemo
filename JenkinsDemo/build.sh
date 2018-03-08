@@ -1,4 +1,4 @@
 #!/bin/bash
 
-xcodebuild -project JenkinsDemo.xcodeproj
+xcodebuild -project JenkinsDemo.xcodeproj -configuration Debug
 
